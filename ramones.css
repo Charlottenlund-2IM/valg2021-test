@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+header{
+    background-color: black;
+    color: white;
+    font-family: arial black;
+    font-size: 40px;
+    text-align: center;
+    padding:5px;
+}
+
+main{
+    width: 90%;
+    margin: auto;
+    background-color: white;
+
+}
+
+div{
+    background-color: white;
+    width: 50%;
+    height:800px;
+    float:left;
+    padding: 10px;
+}
+
+img{
+    height: 600px;
+}
+section{
+    width:90%;
+    margin:auto;
+}
+
+#about{
+    clear:left;
+    width: 70%;
+    text-align: justify;
+}
